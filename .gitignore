@@ -1,1 +1,8 @@
 env
+
+
+# python  cache file
+*.pyc
+
+# add database
+db.sqlite3
