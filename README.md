@@ -20,6 +20,7 @@ pip install -r requirements.txt
 
 # make models 
 python manage.py makemigrations
+
 python manage.py migrate
 
 
